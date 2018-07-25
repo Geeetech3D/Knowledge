@@ -1,6 +1,12 @@
 # Knowledge
 what you should know about our machines
 
+## Short guide to upgrade firmware
+There are two ways for you to upgrade your machine:
+1. Easyprint. please download the latest version from (here)[http://www.geeetech.com/firmware/EasyPrint3D.exe]. \
+2. Smartto tools. you can find it in (our smartto project)[https://github.com/Geeetech3D/Smartto-Eclipse/tree/master/tools] \
+If you have any problems about upgrading firmware, please contact us.
+
 ## Baudrate
 Unit: bit/s
 
